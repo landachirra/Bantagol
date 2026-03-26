@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:0"group"-title="Punjabi",boggle
+#EXTINF:0"group"-title="Punjabi",Tabbar
 
-https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8
-
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/92367def-a2dd-416e-b856-f419aa2046b6/1.m3u8
 
 
 #EXTINF:0"group"-title="Punjabi",5aabTv
