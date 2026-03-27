@@ -2,54 +2,73 @@
 
 #EXTINF:0"group"-title="Punjabi",Tabbar
 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/92367def-a2dd-416e-b856-f419aa2046b6/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/ce04d1e5-e035-40eb-81d0-59b2d9a0549c/2.m3u8
+
+
+
 
 
 #EXTINF:0"group"-title="Punjabi",Saga music
 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/1007aff4-b0ff-451e-8832-2c4e213644a4/2.m3u8
 
-#EXTINF:0"group"-title="Punjabi",Bollywood movie
 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/09176d2b-fcbe-4035-b2bf-364673be86ca/0.m3u8
-
-
-
-
-#EXTINF:0"group"-title="Punjabi",5aabTv
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 
 #EXTINF:0, group-title="Punjabi",Balle-Balle
 
-
 https://mcncdndigital.com/balleballetv/index.m3u8
+
 
 
 #EXTINF:0, group-title="Punjabi",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 
+
+
 #EXTINF:0, group-title="Punjabi",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
+
+
+
 
 #EXTINF:0, group-title="Punjabi",PTC News
 https://cdn-4.pishow.tv/live/1502/master.m3u8
 
+
+
+
+
 #EXTINF:0, group-title="Punjabi",PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index_5.m3u8
+
+
+
+
 
 #EXTINF:0, group-title="Punjabi",PTC GOLD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
 
+
+
 #EXTINF:0, group-title="Punjabi",PRIME ASIA.INDIA
 http://primeasia.mine.nu/Patv_Ind_FHD/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:0, group-title="Punjabi",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 
+
+
+
 #EXTINF:-0 tvg-id="PunjabiHits.in" tvg-name=Punjabi Hits tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUNJABI_HITS/images/LOGO_HD/image.png" group-title="Punjabi",Punjabi Hits
+
 https://stream.ottlive.co.in/punjabihits/index.m3u8
+
+
 
 
 #EXTINF:0, group-title="Punjabi",PTC Chakde
@@ -67,13 +86,15 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
 
 
-
+#EXTINF:0"group"-title="Punjabi",5aabTv
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 
 
 #EXTINF:0, group-title="Punjabi",India news
-
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+
+
 
 #EXTINF:0, group-title="Punjabi",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
@@ -82,8 +103,11 @@ https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:0, group-title="Punjabi",PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
 
+
+
 #EXTINF:0,group-title="Punjabi",Pitaara
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
+
 
 
 #EXTINF:0, group-title="Punjabi",Wah Punjabi
@@ -96,6 +120,8 @@ EXTINF:0,group-title="Punjabi",MH1 Moviehttps://mumt03.tangotv.in/MHONEMOVIES/in
 #EXTINF:0,group-title="Punjabi",SteelBird
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
+
+
 #EXTINF:0,group-title="Punjabi", Pitara comedy
 
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8
@@ -106,6 +132,12 @@ https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master
 
 https://yupptv-onetakemedia.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/382c3589-41a6-430e-8830-14c7055563d7/1.m3u8
 
+
+
+
+#EXTINF:0"group"-title="Punjabi",Bollywood movie
+
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/09176d2b-fcbe-4035-b2bf-364673be86ca/0.m3u8
 
 
 
