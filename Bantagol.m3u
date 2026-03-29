@@ -33,8 +33,6 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 
 
 
-#EXTINF:0, group-title="Punjabi",PTC News
-https://cdn-4.pishow.tv/live/1502/master.m3u8
 
 
 
@@ -76,6 +74,12 @@ https://cdn-1.pishow.tv/live/449/master.m3u8
 
 
 
+#EXTINF:-1 tvg-name="PTC Music" group-title="MUSIC",PTC Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+
+
+
 #EXTINF:0, group-title="Punjabi",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index_3.m3u8
 
@@ -89,6 +93,11 @@ https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:0"group"-title="Punjabi",5aabTv
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
+
+
+
+#EXTINF:0, group-title="Punjabi",PTC News
+https://cdn-4.pishow.tv/live/1502/master.m3u8
 
 
 #EXTINF:0, group-title="Punjabi",India news
@@ -105,8 +114,7 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 
 
 
-#EXTINF:0,group-title="Punjabi",Pitaara
-https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
+EXTINF:0,group-title="Punjabi",Pitaarahttps://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
 
 
 
@@ -227,10 +235,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 tvg-name="9XM" group-title="MUSIC",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-
-
-#EXTINF:-1 tvg-name="PTC Music" group-title="MUSIC",PTC Music
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
 
 
