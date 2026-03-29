@@ -143,55 +143,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-# --- INDIA (24) ---
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US (Hindi) Asian Sony Max 2 (S)
-
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125795.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian (Hindi) Colors Rishtey (S)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125806.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian (Hindi) SAB TV (S)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125809.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian (Hindi) Sahara One (S)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125812.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian (Hindi) SET Max (S)
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies", SET Max
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125814.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian (Hindi) Times Now (S)
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125817.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name=" " group-title="Cricket ",
-
-https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi",Big Magic
-
+#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi Movies",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
+
 
 #EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
@@ -212,52 +171,12 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",Live Sports-2
-http://stvlive.net:8080/sonyten5/index.m3u8
-
-
-#EXTINF:-1 tvg-name="Music India" group-title="Hindi Music",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
-
-
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="Unknown",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="9XM" group-title="Hindi Music",9XM
-http://103.175.73.12:8080/live/155/155_0.m3u8
-
-
-#EXTINF:-1 tvg-name="PTC Music" group-title="MUSIC",PTC Music
-https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-
-
 #EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="Unknown",YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi",Big Magic
+#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi Movies",Big Magic
 
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
@@ -269,4 +188,60 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Music India" group-title="MUSIC",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
+
+
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="MUSIC",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-name="9XM" group-title="MUSIC",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+
+
+#EXTINF:-1 tvg-name="PTC Music" group-title="MUSIC",PTC Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 
+http://stvlive.net:8080/sonyten5/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Tsport " group-title="SPORT",Tsport
+
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 
