@@ -130,6 +130,16 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 
+#EXTINF:0,group-title="Punjabi", punjabi short
+short
+
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-shorts/index.m3u8
+
+
+
+
+
 #EXTINF:0,group-title="Punjabi", Pitara comedy
 
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8
