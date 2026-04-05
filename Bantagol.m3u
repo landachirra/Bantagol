@@ -252,9 +252,8 @@ EXTINF:-1 tvg-name="hindi" group-title="Hindi Movies",
 
 
 
-EXTINF:-1 tvg-name="hindi" group-title="Hindi Movies",
-
-
+#EXTINF:-1 tvg-name="hindi" group-title="Hindi Movies",sony sab test
+http://103.229.254.25:7001/play/a0eb/index.m3u8
 
 
 
