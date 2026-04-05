@@ -259,7 +259,7 @@ EXTINF:-1 tvg-name="hindi" group-title="Hindi Movies",
 
 
 
-EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 
+#EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 
 http://stvlive.net:8080/sonyten5/index.m3u8
 
 
