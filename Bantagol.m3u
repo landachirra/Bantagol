@@ -158,40 +158,40 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies", SET Max
+EXTINF:-1 tvg-logo="" group-title="Hindi Movies", SET Max
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125814.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
+EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
 
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="MUSIC",YRF Music HD
+EXTINF:-1 tvg-name="YRF Music HD" group-title="MUSIC",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 
@@ -204,9 +204,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 
-#EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2
+EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2
 http://103.157.248.140:8000/play/a01m/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sd
+EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sd
 http://103.157.248.140:8000/play/a00g/index.m3u8
