@@ -129,19 +129,19 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 
-(#EXTINF:0,group-title="Punjabi",punjabi short)
+EXTINF:0,group-title="Punjabi",
 
 
 
 
 
-#EXTINF:0,group-title="Punjabi", Pitara comedy
+EXTINF:0,group-title="Punjabi", Pitara comedy
 
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8
 
 
 
-#EXTINF:0,group-title="Punjabi",Comedy king
+EXTINF:0,group-title="Punjabi",Comedy king
 
 https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8
 
@@ -158,14 +158,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 
-EXTINF:-1 tvg-logo="" group-title="Hindi Movies", SET Max
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies", SET Max
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125814.m3u8
 
 
 
-EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
+#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-
 
 
 EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
@@ -173,16 +172,12 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 
-EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-
 
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
 
-,EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
