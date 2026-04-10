@@ -178,13 +178,12 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 
 
-EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
 
-EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-
-https://cdn-2.pishow.tv/live/227/master.m3u8
+(EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8)
 
 
 EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
@@ -204,9 +203,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 
-EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2
-http://103.157.248.140:8000/play/a01m/index.m3u8
+(EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2http://103.157.248.140:8000/play/a01m/index.m3u8)
 
 
-EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sd
-http://103.157.248.140:8000/play/a00g/index.m3u8
+(EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sdhttp://103.157.248.140:8000/play/a00g/index.m3u8)
