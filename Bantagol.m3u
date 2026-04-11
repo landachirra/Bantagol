@@ -66,7 +66,7 @@ http://primeasia.mine.nu/Patv_Ind_FHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-0 tvg-id="PunjabiHits.in" tvg-name=Punjabi Hits tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUNJABI_HITS/images/LOGO_HD/image.png" group-title="Punjabi",Punjabi Hits
+#EXTINF:0"group"-title="Punjabi",punjabi hits
 
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
@@ -106,24 +106,11 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 
 
 
-#EXTINF:0, group-title="Punjabi",Hamdard TV
-https://tv.hamdardtv.com/hamdard/index.m3u8
-
-
-#EXTINF:0, group-title="Punjabi",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-
-
-
-EXTINF:0,group-title="Punjabi",Pitaarahttps://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
-
-
-
 #EXTINF:0, group-title="Punjabi",Wah Punjabi
 https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 
-EXTINF:0,group-title="Punjabi",MH1 Moviehttps://mumt03.tangotv.in/MHONEMOVIES/index.m3u8
+
 
 
 #EXTINF:0,group-title="Punjabi",SteelBird
@@ -131,32 +118,10 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 
-EXTINF:0,group-title="Punjabi",
-
-
-
-
-
-EXTINF:0,group-title="Punjabi", Pitara comedy
-
-https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8
-
-
-
-EXTINF:0,group-title="Punjabi",Comedy king
-
-https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8
-
-
 
 
 #EXTINF:0"group"-title="Punjabi",Bollywood movie
-
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/dbaea6e0-5f9e-404e-8c9a-345834bb579d/0.m3u8
-
-
-
-
 
 
 
@@ -169,25 +134,18 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/125814.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
-EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
-
-
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movie",Hindi Movies
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
-
-EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-
-
-EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Movies",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
-EXTINF:-1 tvg-name="YRF Music HD" group-title="MUSIC",YRF Music HD
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="Hindi Movies",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 
@@ -200,7 +158,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 
-EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports-2" group-title="SPORTS",star sport 2
+http://103.157.248.140:8000/play/a01m/index.m3u8
 
 
-EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sdhttp://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sd
+http://103.157.248.140:8000/play/a00g/index.m3u8
