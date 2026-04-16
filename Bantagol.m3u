@@ -182,3 +182,12 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-name="Live Sports-1" group-title="SPORTS",star sport 1sd
 http://103.157.248.140:8000/play/a00g/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Планета HD.bg" tvg-chno="53" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Phd1.png/revision/latest?cb=20200517141118",Planeta HD
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1776349776&hash=XTC0pSoOsLP9aXM2HCliiw
+
+#EXTINF:-1 tvg-id="Планета Фолк HD.bg" tvg-chno="54" tvg-logo="https://predavatel.com/bg/4/dimitrovgrad_img/tv-planeta-folk2.png",Planeta Folk
+https://cdn3.glebul.com/hls/planeta-folk/index.m3u8?e=1776349789&hash=bvK0dmBAYFBkez0g6y6few
