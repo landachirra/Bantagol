@@ -120,8 +120,7 @@ EXTINF:0,group-title="Punjabi",Boggle Bollywood
 
 
 
-#EXTINF:0,group-title="Punjabi",SteelBird
-https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+EXTINF:0,group-title="Punjabi",SteelBirdhttps://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 
 
@@ -189,8 +188,7 @@ http://1tv41.icu:8080/52335416/52335416/125819
 
 
 
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Sony tv
-http://103.157.248.140:8000/play/a004/index.m3u8
+EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Sony tvhttp://103.157.248.140:8000/play/a004/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Bollywood comedy
