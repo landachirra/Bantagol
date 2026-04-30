@@ -172,8 +172,7 @@ http://1tv41.icu:8080/52335416/52335416/125812
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SET Max (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SET Max (S)
-http://1tv41.icu:8080/52335416/52335416/125814
+EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) SET Max (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) SET Max (S)http://1tv41.icu:8080/52335416/52335416/125814
 
 
 
@@ -191,8 +190,7 @@ http://1tv41.icu:8080/52335416/52335416/125819
 EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Sony tvhttp://103.157.248.140:8000/play/a004/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Bollywood comedy
-https://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8
+EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Bollywood comedyhttps://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8
 
 
 
