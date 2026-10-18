@@ -66,9 +66,9 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 
 
-#EXTINF:0, group-title="Punjabi",zee tv
+#EXTINF:0, group-title="Punjabi",BU movie
 
-http://51.75.127.199:3141/zeetv/index.m3u8
+https://cdn.pishow.tv/ott/live/419/master.m3u8
 
 
 
@@ -90,9 +90,9 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 
 
-#EXTINF:0, group-title="Punjabi",Zee Punjabi
-http://51.75.127.199:3141/zeepunjabi/index.m3u8
+#EXTINF:0, group-title="Punjabi",Goldmines
 
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 
 #EXTINF:0, group-title="Punjabi",India news
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
@@ -129,7 +129,7 @@ EXTINF:0"group"-title="Punjabi",Bollywood movie
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies", Zee cinema
+EXTINF:-1 tvg-logo="" group-title="Hindi Movies", Zee cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 
@@ -137,8 +137,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi movie",Star Plus
-http://41.205.93.154/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi movie",movie 
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies", steelbird Music
@@ -149,9 +150,9 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 http://1tv41.icu:8080/52335416/52335416/125795
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Colors Rishtey (S)" tvg-logo="" group-title="INDIA",US Asian (Hindi) Colors Rishtey (S)
-http://1tv41.icu:8080/52335416/52335416/125806
+#EXTINF:-1 tvg-id="" tvg-name="US Asian (Hindi) Colors Rishtey (S)" tvg-logo="" group-title="INDIA",movie
 
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 
 
@@ -187,8 +188,9 @@ http://1tv41.icu:8080/52335416/52335416/125819
 EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Sony tvhttp://103.157.248.140:8000/play/a004/index.m3u8
 
 
-EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Bollywood comedyhttps://yupptv-onetakemedia.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/df0ab9aa-eccd-48bf-b25c-c396801de1e2/playlist.m3u8
+#EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi Movies",Dangal
 
+https://tvsen6.aynaott.com/uS9QwrbB/index.m3u8?e=1784102594&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1f2a210560b673b66b0d398f2d6fc2fd
 
 
 #EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Movies",Hindi Hits HD
